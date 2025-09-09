@@ -1,0 +1,3 @@
+name: geekerfish-tech/image-1:latest-ffmpeg
+from: openlistteam/openlist:latest-ffmpeg
+date: 09/10/25
